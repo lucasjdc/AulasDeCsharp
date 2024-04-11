@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6rOqWGuaK9kQ4+p9hgv/ggCsKWgu62sPaBCvxGLUnOZmWbk0w8YmPK2iInLfRhrX8jyuDzkws2oUDe85wBflng==",
+  "dgSpecHash": "c/50o5My/NoblmFSmziA8wuCv648HWWivE3DHMc1enEArpsm4ONvv6757j5KLcI6UMjp57FKwaoDQKOZwTlMRw==",
   "success": true,
-  "projectFilePath": "C:\\alura\\Biblioteca .Net\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
+  "projectFilePath": "C:\\aulas\\Biblioteca .Net\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Meu Computador\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

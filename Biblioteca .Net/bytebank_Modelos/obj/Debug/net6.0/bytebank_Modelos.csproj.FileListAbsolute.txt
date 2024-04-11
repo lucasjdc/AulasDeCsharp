@@ -20,3 +20,14 @@ C:\alura\Biblioteca .Net\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.dll
 C:\alura\Biblioteca .Net\bytebank_Modelos\obj\Debug\net6.0\refint\bytebank_Modelos.dll
 C:\alura\Biblioteca .Net\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.pdb
 C:\alura\Biblioteca .Net\bytebank_Modelos\obj\Debug\net6.0\ref\bytebank_Modelos.dll
+C:\aulas\Biblioteca .Net\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.deps.json
+C:\aulas\Biblioteca .Net\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.dll
+C:\aulas\Biblioteca .Net\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.pdb
+C:\aulas\Biblioteca .Net\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\aulas\Biblioteca .Net\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.AssemblyInfoInputs.cache
+C:\aulas\Biblioteca .Net\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.AssemblyInfo.cs
+C:\aulas\Biblioteca .Net\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.csproj.CoreCompileInputs.cache
+C:\aulas\Biblioteca .Net\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.dll
+C:\aulas\Biblioteca .Net\bytebank_Modelos\obj\Debug\net6.0\refint\bytebank_Modelos.dll
+C:\aulas\Biblioteca .Net\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.pdb
+C:\aulas\Biblioteca .Net\bytebank_Modelos\obj\Debug\net6.0\ref\bytebank_Modelos.dll
