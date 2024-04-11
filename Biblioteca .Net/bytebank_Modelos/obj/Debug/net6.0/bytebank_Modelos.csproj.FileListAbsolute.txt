@@ -1,0 +1,11 @@
+C:\alura\Array_Collections_C-aula05\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.deps.json
+C:\alura\Array_Collections_C-aula05\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.dll
+C:\alura\Array_Collections_C-aula05\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.pdb
+C:\alura\Array_Collections_C-aula05\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\alura\Array_Collections_C-aula05\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.AssemblyInfoInputs.cache
+C:\alura\Array_Collections_C-aula05\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.AssemblyInfo.cs
+C:\alura\Array_Collections_C-aula05\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.csproj.CoreCompileInputs.cache
+C:\alura\Array_Collections_C-aula05\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.dll
+C:\alura\Array_Collections_C-aula05\bytebank_Modelos\obj\Debug\net6.0\refint\bytebank_Modelos.dll
+C:\alura\Array_Collections_C-aula05\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.pdb
+C:\alura\Array_Collections_C-aula05\bytebank_Modelos\obj\Debug\net6.0\ref\bytebank_Modelos.dll
